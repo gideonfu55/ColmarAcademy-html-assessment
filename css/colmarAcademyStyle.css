@@ -285,6 +285,8 @@ nav {
 
 .video-text {
   display: flex;
+  width: 50%;
+  margin-left: 24px;
   flex-direction: column;
   text-align: left;
   margin-top: 24px;
