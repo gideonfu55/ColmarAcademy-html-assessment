@@ -1,6 +1,6 @@
-# html-Assessment
+# html-assessment
 
-FSD Assessment
+FSD assessment revisted - looked through and amended some previous mistakes
 
 ● What did you like about this project?
 
