@@ -85,7 +85,7 @@ nav {
 
 .main-section img {
   width: 60%;
-  height: 75vh;
+  height: auto;
 }
 
 .mainsection-content {
@@ -118,6 +118,7 @@ nav {
   display: flex;
   margin: 32px 24px;
   scroll-margin-top: 30px;
+  justify-content: center;
 }
 
 .info-left {
@@ -151,8 +152,6 @@ nav {
 .info-right {
   display: flex;
   flex-direction: column;
-  margin-right: 24px;
-  margin-left: 16px;
 }
 
 .rightPanelBox {
